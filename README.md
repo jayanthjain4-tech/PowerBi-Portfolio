@@ -14,10 +14,10 @@ Contents
 
 Each project folder has the Power BI file (.pbix) and pdf of the dashboard.
 
-Note
+Note:
 
 All datasets are practice data used for learning. They contain no real company or customer information.
 
-Contact
+Contact:
 
 LinkedIn | jayanthjain4@gmail.com
