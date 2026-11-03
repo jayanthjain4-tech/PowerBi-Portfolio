@@ -2,9 +2,9 @@
 
 Hi, I'm Jayanth T, an MBA (Marketing & Business Analytics) graduate looking for entry-level Business Analyst and Data Analyst roles. This repository contains three Power BI dashboards I built on practice datasets, each answering a business question.
 
-Tools: Power BI (Power Query, DAX), Excel
+**Tools:** Power BI (Power Query, DAX), Excel
 
-Projects: 
+**Projects:**
 Order Fulfilment & Delivery SLA Dashboard: Analysed 15,000 orders to find why deliveries were late. East Hub handles 17% of orders but causes 31% of the late ones.
 
 Maintenance Requests & SLA Performance Dashboard: Analysed 12,000 maintenance requests to see which contractors miss their targets. One HVAC contractor meets its target only 51% of the time.
@@ -14,10 +14,10 @@ Contents
 
 Each project folder has the Power BI file (.pbix) and pdf of the dashboard.
 
-Note:
+**Note:**
 
 All datasets are practice data used for learning. They contain no real company or customer information.
 
-Contact:
+**Contact:**
 
 LinkedIn | jayanthjain4@gmail.com
